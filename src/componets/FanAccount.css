@@ -1,0 +1,7 @@
+.form-control {
+    padding: 0.5rem 1rem !important;
+    color: #43494e !important;
+    background-color: rgb(0, 0, 0) !important;
+    border: 3px solid #00a82a !important;
+    border-radius: 2rem !important;
+}
