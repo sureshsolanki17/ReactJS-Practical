@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function HeroBtn(props) {
     const [addClass, setClass] = useState(props.className);
-    const BtnClick = (props) => {
+    const BtnClick = () => {
         console.log(addClass);
         setClass('hahhjh');
     };
